@@ -28,5 +28,23 @@ export const robots = [
   	name: "Melanie Rump",
   	username: "Dumbee",
   	email: "dumbee@email.com"
+  },
+  {
+  	id: 6,
+  	name: "Donald Rump",
+  	username: "Biggie",
+  	email: "biggie@email.com"
+  },
+  {
+  	id: 7,
+  	name: "Daniel Boolean",
+  	username: "Boole",
+  	email: "boole@email.com"
+  },
+  {
+  	id: 8,
+  	name: "Arnold Skynet",
+  	username: "Sky",
+  	email: "sky@email.com"
   }
 ]

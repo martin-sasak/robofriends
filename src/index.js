@@ -1,15 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './containers/App';
 import registerServiceWorker from './registerServiceWorker';
 import "tachyons";
-import { robots } from "./robots";
 
 ReactDOM.render(
     <div>
     	<App />
     </div>
-	, 
+	,
 	document.getElementById('root'));
 registerServiceWorker();
